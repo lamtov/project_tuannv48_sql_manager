@@ -1,0 +1,75 @@
+variables:
+  GIT_STRATEGY: clone
+before_script:
+  - docker info
+stages:
+  - build
+  - deploy
+  - test
+build_image_stage:
+  stage: build
+  tags:
+    - shell_run_docker
+  script:
+    - docker login -u lamtv10 -p S4YugcbJfZetD551pwJa registry.ocs.com
+  #  - docker tag base_sfd_lamtv10:latest registry.ocs.com/lamtv10/software_deployment/base_sfd_lamtv10
+  #  - docker push registry.ocs.com/lamtv10/software_deployment/base_sfd_lamtv10
+    - docker build  -t test_image_lamtv10:$CI_COMMIT_SHA .
+    - docker tag test_image_lamtv10:$CI_COMMIT_SHA registry.ocs.com/lamtv10/software_deployment/test_image_lamtv10
+    - docker push registry.ocs.com/lamtv10/software_deployment/test_image_lamtv10
+    - mkdir md
+    - cp README.md md/
+    - cp mozilla.pdf md/
+    - cp lamtv10.js md/
+  artifacts:
+    paths:
+      - md
+
+run_image_stage:
+  stage: deploy
+  tags:
+    - shell_run_test
+  script:
+    - docker ps -a -q --filter "name=lamtv10_software" | grep -q . && docker stop lamtv10_software && docker rm -fv lamtv10_software
+
+    - docker pull registry.ocs.com/lamtv10/software_deployment/test_image_lamtv10
+
+    - docker run -d --network=host --name lamtv10_software -v /home/lamtv10/software_deployment/data/playbooks:/root/app/static/ansible/playbooks -v /home/lamtv10/software_deployment/data/inventory:/root/app/static/ansible/inventory  -v /home/lamtv10/software_deployment/data/group_vars_template:/root/app/static/ansible/group_vars_template  registry.ocs.com/lamtv10/software_deployment/test_image_lamtv10
+
+run_image_test_default:
+  before_script:
+    - ls
+  stage: test
+  tags:
+    - docker_run_test_api_v1
+  image: registry.ocs.com/mailp/testapi/test_rest_api_v1
+  script:
+    - pwd=`pwd`
+    - cd /root/test_api
+    - /root/app/jdk/bin/java -cp "./lib/*.jar:auto_nfvi.jar" automation.Automation
+    - mv Extent_Output/ $pwd/Default_Test_Output$CI_COMMIT_SHA
+  artifacts:
+    paths:
+      - Default_Test_Output$CI_COMMIT_SHA
+
+
+
+run_image_test_custom:
+  before_script:
+    - ls
+  stage: test
+  tags:
+    - docker_run_test_api_v1
+  image: registry.ocs.com/mailp/testapi/test_rest_api_v1
+  script:
+    - /root/app/jdk/bin/java -cp "/root/test_api/lib/*.jar:/root/test_api/auto_nfvi.jar" -Dconfig_path=configs/test_data.xlsx  automation.Automation
+    - mv Extent_Output/ Custom_Test_Output$CI_COMMIT_SHA
+  artifacts:
+    paths:
+      - Custom_Test_Output$CI_COMMIT_SHA
+
+
+
+
+
+

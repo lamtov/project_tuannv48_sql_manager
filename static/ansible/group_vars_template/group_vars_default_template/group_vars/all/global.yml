@@ -1,0 +1,71 @@
+---
+########################################################  hannv13 chich cansua
+software_deployment_host: 172.16.30.149
+########################################################  hannv13 chich cansua
+
+# Meta Data 
+base_distro: 'rhel7.7'
+openstack_release: "queens"
+
+# Dải mạng để các service trong Openstack giao tiếp\
+########################################################  ########### hannv13 chich cansua
+network_interface: ens160
+NTP_NETWORK: 172.16.30.0/25
+subnet1: 172.16.30.0/24
+subnet2: 172.16.31.0/24
+########################################################  ###########  hannv13 chich cansua
+
+# Thông tin Os-controller để tạo file open.rc
+CONTROLLER_HOST: os-controller 
+keystone_auth_url: http://os-controller:5000/v3
+project_domain_name: Default
+user_domain_name: Default
+project_name: service
+ADMIN_PASS: Vttek@123
+REGION_NAME: North_VN
+CELL_NAME: cell1
+
+# Tên controller đầu tiên được cài để tạo DB, đăng ký user, service, password
+########################################################  ########### hannv13 chich cansua
+HUB: ctr01
+########################################################  ########### hannv13 chich cansua
+first_controller: '{{ HUB }}'
+chrony_server: '{{ HUB }}'
+
+# IP Os-controller
+########################################################  ########### hannv13 chich cansua
+INTERNAL_VIP_ADDRESS: 172.16.30.56
+########################################################  ########### hannv13 chich cansua
+
+
+
+# Cấu hình cho Haproxy và Keepalived
+VIP_PUBLIC: '{{ INTERNAL_VIP_ADDRESS }}'
+HAPROXY_STATS_PORT: 1995
+HAPROXY_STATS_USER: cloud
+HAPROXY_STATS_PASS: GdYc6d8jYwURfAn5A3sc08Ipt5zcanPl
+VIP_PRIVATE_INF: '{{ network_interface }}'
+VIP_PRIVATE: '{{ INTERNAL_VIP_ADDRESS }}'
+ROUTER_ID: 109
+OS_CONTROLLER: '{{ INTERNAL_VIP_ADDRESS }}'
+
+
+########################################################  ########### hannv13 chich cansua
+group_controllers:
+  - ctr01
+  - ctr02
+  - ctr03
+
+KEEPALIVED_PRIORS: 
+  ctr01: 5
+  ctr02: 4
+  ctr03: 3
+
+
+pc_weight: 
+  ctr01: 50
+  ctr02: 40
+  ctr03: 30
+
+sriov_dev_name: ens2f0
+########################################################  ########### hannv13 chich cansua

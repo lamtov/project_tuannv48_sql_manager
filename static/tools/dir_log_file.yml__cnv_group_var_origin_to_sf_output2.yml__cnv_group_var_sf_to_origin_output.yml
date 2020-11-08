@@ -1,0 +1,6 @@
+nova_compute_logging_debug: false
+neutron_logging_debug: false
+nova_state_path: /home/root/var/lib/nova
+nova_log_file: /var/log/nova
+VAR_LOG_DIR: /u01/docker/docker_log
+VAR_LIB_DOCKER: /home/root/var/lib/docker

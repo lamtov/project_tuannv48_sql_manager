@@ -1,0 +1,72 @@
+---
+group_name: compute_password
+
+# Cấu hình port cho các service trong Openstack
+services_port: 
+  keystone: 5000
+  glance_api: 9292
+  glance_registry: 9191
+  nova_api: 8774
+  nova_placement_api: 8778
+  nova_metadata: 8775
+  nova_novncproxy: 6080
+  neutron_server: 9696
+  horizon: 80
+  cinder_api: 8776
+  masakari_api: 15868
+
+transport_url: rabbit://{% for node in groups['CONTROLLER'] %}openstack:{{RB_OPENSTACK}}@{{node}}:5672{% if not loop.last %},{% endif  %}{% endfor %}
+memcached_servers: "{% for node in groups['CONTROLLER'] %}{{node}}:11211{% if not loop.last %},{% endif  %}{% endfor %}"
+
+# Cấu hình đặc biệt cho nova-compute
+use_vcpu_pin_set: true
+cpu_pin: true
+
+rbd_store_ceph_conf: /etc/ceph/ceph.conf
+nova_backend_ceph: false
+resume_guests_state_on_host_boot : true
+osapi_compute_unique_server_name_scope: false
+nova_compute_logging_debug: false
+
+
+########################################################  ########### hannv13 chich cansua
+
+vcpu_pin_sets:
+  compute01: 2-7,18-23,10-15,26-31
+  compute02: 2-7,18-23,10-15,26-31
+  compute03: 2-7,18-23,10-15,26-31
+  compute04: 2-7,18-23,10-15,26-31
+
+
+
+
+sriov_config:
+  pci_passthrough_whitelist:
+    compute01: '[]'
+    compute02: '[]'
+    compute03: '[]'
+    compute04: '[]'
+
+  physical_device_mappings:
+    compute01: ''
+    compute02: ''
+    compute03: ''
+    compute04: ''
+
+
+
+
+
+####service_name: openvswitch_dpdk
+OVS_HUGEPAGE_MOUNT_PAGESIZE: '1GB'
+OVS_NUM_HUGEPAGES: 24
+
+OVS_BRIDGE_MAPPINGS: 'mgnt:br-mgnt'
+OVS_DPDK_PORT_MAPPINGS: 'enp6s0:br-mgnt'
+
+# lspci | egrep -i --color 'network|ethernet'
+OVS_PCI_MAPPINGS: '0000:06:00.0#enp6s0'
+OVS_DPDK_BIND_PORT: True
+OVS_PMD_CORE_MASK: C000C
+OVS_CORE_MASK: C0003
+########################################################  ########### hannv13 chich cansua

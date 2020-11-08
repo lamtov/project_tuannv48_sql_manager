@@ -1,0 +1,569 @@
+[2020-10-23 09:08:15.185] [ INFO    ] [_internal:_log:122] 72393  * Restarting with stat
+[2020-10-23 09:08:16.077] [ WARNING ] [_internal:_log:122] 105724  * Debugger is active!
+[2020-10-23 09:08:16.078] [ INFO    ] [_internal:_log:122] 105724  * Debugger PIN: 507-280-042
+[2020-10-23 09:08:17.975] [ INFO    ] [_internal:_log:122] 105760  * Running on http://0.0.0.0:1234/ (Press CTRL+C to quit)
+[2020-10-23 09:08:17.976] [ INFO    ] [_internal:_log:122] 105760  * Restarting with stat
+[2020-10-23 09:08:18.650] [ WARNING ] [_internal:_log:122] 105793  * Debugger is active!
+[2020-10-23 09:08:18.651] [ INFO    ] [_internal:_log:122] 105793  * Debugger PIN: 507-280-042
+[2020-10-23 10:02:16.142] [ INFO    ] [_internal:_log:122] 39844  * Running on http://0.0.0.0:1234/ (Press CTRL+C to quit)
+[2020-10-23 10:02:16.143] [ INFO    ] [_internal:_log:122] 39844  * Restarting with stat
+[2020-10-23 10:02:17.024] [ WARNING ] [_internal:_log:122] 39865  * Debugger is active!
+[2020-10-23 10:02:17.025] [ INFO    ] [_internal:_log:122] 39865  * Debugger PIN: 507-280-042
+[2020-10-23 10:02:42.028] [ INFO    ] [_internal:_log:122] 40375  * Running on http://0.0.0.0:1234/ (Press CTRL+C to quit)
+[2020-10-23 10:02:42.029] [ INFO    ] [_internal:_log:122] 40375  * Restarting with stat
+[2020-10-23 10:02:42.873] [ WARNING ] [_internal:_log:122] 40396  * Debugger is active!
+[2020-10-23 10:02:42.874] [ INFO    ] [_internal:_log:122] 40396  * Debugger PIN: 507-280-042
+[2020-10-23 10:02:49.058] [ INFO    ] [_internal:_log:122] 40396 127.0.0.1 - - [23/Oct/2020 10:02:49] "GET /api/v1/ HTTP/1.1" 200 -
+[2020-10-23 10:02:49.137] [ INFO    ] [_internal:_log:122] 40396 127.0.0.1 - - [23/Oct/2020 10:02:49] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+[2020-10-23 10:02:49.140] [ INFO    ] [_internal:_log:122] 40396 127.0.0.1 - - [23/Oct/2020 10:02:49] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+[2020-10-23 10:02:49.143] [ INFO    ] [_internal:_log:122] 40396 127.0.0.1 - - [23/Oct/2020 10:02:49] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+[2020-10-23 10:02:49.144] [ INFO    ] [_internal:_log:122] 40396 127.0.0.1 - - [23/Oct/2020 10:02:49] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
+[2020-10-23 10:02:49.646] [ INFO    ] [_internal:_log:122] 40396 127.0.0.1 - - [23/Oct/2020 10:02:49] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+[2020-10-23 10:02:49.799] [ INFO    ] [_internal:_log:122] 40396 127.0.0.1 - - [23/Oct/2020 10:02:49] "GET /api/v1/swagger.json HTTP/1.1" 200 -
+[2020-10-23 10:03:19.603] [ INFO    ] [_internal:_log:122] 40396  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/app.py', reloading
+[2020-10-23 10:03:19.694] [ INFO    ] [_internal:_log:122] 40375  * Restarting with stat
+[2020-10-23 10:03:20.717] [ WARNING ] [_internal:_log:122] 41193  * Debugger is active!
+[2020-10-23 10:03:20.718] [ INFO    ] [_internal:_log:122] 41193  * Debugger PIN: 507-280-042
+[2020-10-23 10:03:22.318] [ INFO    ] [_internal:_log:122] 41228  * Running on http://0.0.0.0:1234/ (Press CTRL+C to quit)
+[2020-10-23 10:03:22.319] [ INFO    ] [_internal:_log:122] 41228  * Restarting with stat
+[2020-10-23 10:03:23.172] [ WARNING ] [_internal:_log:122] 41260  * Debugger is active!
+[2020-10-23 10:03:23.172] [ INFO    ] [_internal:_log:122] 41260  * Debugger PIN: 507-280-042
+[2020-10-23 10:03:24.763] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:03:24] "GET /api/v1/ HTTP/1.1" 200 -
+[2020-10-23 10:03:24.836] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:03:24] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+[2020-10-23 10:03:24.838] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:03:24] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+[2020-10-23 10:03:24.856] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:03:24] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+[2020-10-23 10:03:24.868] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:03:24] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+[2020-10-23 10:03:25.467] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:03:25] "GET /api/v1/swagger.json HTTP/1.1" 200 -
+[2020-10-23 10:03:37.801] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:03:37] "GET /api/v1/devicedetails HTTP/1.1" 200 -
+[2020-10-23 10:04:48.288] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:04:48] "GET /api/v1/devicedetails HTTP/1.1" 200 -
+[2020-10-23 10:04:48.746] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:04:48] "GET /favicon.ico HTTP/1.1" 404 -
+[2020-10-23 10:30:39.366] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:30:39] "GET /api/v1/devicedetails HTTP/1.1" 200 -
+[2020-10-23 10:32:40.717] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:32:40] "GET /api/v1/devicedetails HTTP/1.1" 200 -
+[2020-10-23 10:33:07.462] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:33:07] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 500 -
+[2020-10-23 10:33:12.557] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:33:12] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 500 -
+[2020-10-23 10:33:17.617] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:33:17] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 500 -
+[2020-10-23 10:33:22.698] [ INFO    ] [_internal:_log:122] 41260 127.0.0.1 - - [23/Oct/2020 10:33:22] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 500 -
+[2020-10-23 10:51:16.741] [ INFO    ] [_internal:_log:122] 41260  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 10:51:16.849] [ INFO    ] [_internal:_log:122] 41228  * Restarting with stat
+[2020-10-23 10:51:18.322] [ WARNING ] [_internal:_log:122] 98467  * Debugger is active!
+[2020-10-23 10:51:18.323] [ INFO    ] [_internal:_log:122] 98467  * Debugger PIN: 507-280-042
+[2020-10-23 10:51:53.865] [ INFO    ] [_internal:_log:122] 98467  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 10:51:53.967] [ INFO    ] [_internal:_log:122] 41228  * Restarting with stat
+[2020-10-23 10:51:54.897] [ WARNING ] [_internal:_log:122] 99222  * Debugger is active!
+[2020-10-23 10:51:54.897] [ INFO    ] [_internal:_log:122] 99222  * Debugger PIN: 507-280-042
+[2020-10-23 10:51:58.468] [ INFO    ] [_internal:_log:122] 99296  * Running on http://0.0.0.0:1234/ (Press CTRL+C to quit)
+[2020-10-23 10:51:58.470] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 10:51:59.354] [ WARNING ] [_internal:_log:122] 99322  * Debugger is active!
+[2020-10-23 10:51:59.354] [ INFO    ] [_internal:_log:122] 99322  * Debugger PIN: 507-280-042
+[2020-10-23 10:52:06.641] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 10:52:06] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 10:52:11.693] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 10:52:11] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 10:52:16.740] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 10:52:16] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 10:52:17.315] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 10:52:17] "GET /api/v1/devicedetails HTTP/1.1" 200 -
+[2020-10-23 10:52:21.802] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 10:52:21] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 10:52:28.420] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 10:52:28] "GET /api/v1/devicedetails HTTP/1.1" 200 -
+[2020-10-23 10:52:41.603] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 10:52:41] "GET /api/v1/devicedetails HTTP/1.1" 200 -
+[2020-10-23 10:56:17.898] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 10:56:17] "GET /api/v1/devicedetails HTTP/1.1" 200 -
+[2020-10-23 11:04:19.064] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:04:19] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 201 -
+[2020-10-23 11:04:24.127] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:04:24] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 201 -
+[2020-10-23 11:04:29.209] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:04:29] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 201 -
+[2020-10-23 11:04:33.746] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:04:33] "GET /api/v1/devicedetails HTTP/1.1" 200 -
+[2020-10-23 11:04:47.136] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:04:47] "GET /api/v1/metricdetails HTTP/1.1" 200 -
+[2020-10-23 11:06:01.713] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:06:01] "GET /api/v1/metricdetails HTTP/1.1" 500 -
+[2020-10-23 11:06:01.791] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:06:01] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2020-10-23 11:06:01.804] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:06:01] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2020-10-23 11:06:01.809] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:06:01] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2020-10-23 11:06:02.360] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:06:02] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 11:06:02.433] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:06:02] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 11:06:06.763] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:06:06] "GET /api/v1/metricdetails HTTP/1.1" 200 -
+[2020-10-23 11:06:12.564] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:06:12] "GET /api/v1/metricdetails HTTP/1.1" 200 -
+[2020-10-23 11:08:08.843] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:08:08] "GET /api/v1/metricdetails HTTP/1.1" 500 -
+[2020-10-23 11:08:08.909] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:08:08] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2020-10-23 11:08:08.911] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:08:08] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2020-10-23 11:08:08.924] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:08:08] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2020-10-23 11:08:09.032] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:08:09] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 11:08:09.107] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:08:09] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 11:08:10.601] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:08:10] "GET /api/v1/metricdetails HTTP/1.1" 200 -
+[2020-10-23 11:08:12.082] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:08:12] "GET /api/v1/metricdetails HTTP/1.1" 200 -
+[2020-10-23 11:16:32.678] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:16:32] "GET /api/v1/devicedetails HTTP/1.1" 200 -
+[2020-10-23 11:29:01.042] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:29:01] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 11:29:06.103] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:29:06] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 11:29:11.160] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:29:11] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 11:29:16.226] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:29:16] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 11:29:21.381] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:29:21] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 500 -
+[2020-10-23 11:29:26.459] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:29:26] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 500 -
+[2020-10-23 11:29:31.517] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:29:31] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 500 -
+[2020-10-23 11:29:36.580] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:29:36] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 500 -
+[2020-10-23 11:29:41.659] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 11:29:41] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 500 -
+[2020-10-23 13:45:09.565] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:45:09] "GET /api/v1/metricdetails HTTP/1.1" 500 -
+[2020-10-23 13:45:09.619] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:45:09] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2020-10-23 13:45:09.624] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:45:09] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2020-10-23 13:45:09.630] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:45:09] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2020-10-23 13:45:09.731] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:45:09] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 13:45:09.774] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:45:09] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 13:45:13.939] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:45:13] "GET /api/v1/metricdetails HTTP/1.1" 500 -
+[2020-10-23 13:45:14.022] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:45:14] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2020-10-23 13:45:14.030] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:45:14] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2020-10-23 13:45:14.034] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:45:14] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2020-10-23 13:45:14.215] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:45:14] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 13:45:14.254] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:45:14] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 13:46:33.959] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:33] "GET /api/v1/metricdetails HTTP/1.1" 500 -
+[2020-10-23 13:46:34.019] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:34] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2020-10-23 13:46:34.028] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:34] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2020-10-23 13:46:34.039] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:34] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2020-10-23 13:46:34.220] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:34] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 13:46:34.301] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:34] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 13:46:35.447] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:35] "GET /api/v1/metricdetails HTTP/1.1" 500 -
+[2020-10-23 13:46:35.526] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:35] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2020-10-23 13:46:35.534] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:35] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2020-10-23 13:46:35.540] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:35] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2020-10-23 13:46:35.673] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:35] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 13:46:35.702] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:35] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 13:46:38.533] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:38] "GET /api/v1/metricdetails HTTP/1.1" 500 -
+[2020-10-23 13:46:38.614] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:38] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2020-10-23 13:46:38.619] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:38] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2020-10-23 13:46:38.622] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:38] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2020-10-23 13:46:38.727] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:38] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 13:46:38.803] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:38] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 13:46:49.241] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:49] "GET /api/v1/metricdetails HTTP/1.1" 500 -
+[2020-10-23 13:46:49.337] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:49] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2020-10-23 13:46:49.342] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:49] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2020-10-23 13:46:49.346] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:49] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2020-10-23 13:46:49.441] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:49] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 13:46:49.484] [ INFO    ] [_internal:_log:122] 99322 127.0.0.1 - - [23/Oct/2020 13:46:49] "GET /api/v1/metricdetails?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2020-10-23 15:28:31.296] [ INFO    ] [_internal:_log:122] 99322  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:28:31.434] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:28:32.581] [ WARNING ] [_internal:_log:122] 39271  * Debugger is active!
+[2020-10-23 15:28:32.582] [ INFO    ] [_internal:_log:122] 39271  * Debugger PIN: 507-280-042
+[2020-10-23 15:29:07.168] [ INFO    ] [_internal:_log:122] 39271  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:29:07.268] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:29:08.240] [ WARNING ] [_internal:_log:122] 39993  * Debugger is active!
+[2020-10-23 15:29:08.241] [ INFO    ] [_internal:_log:122] 39993  * Debugger PIN: 507-280-042
+[2020-10-23 15:29:13.337] [ INFO    ] [_internal:_log:122] 39993  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:29:13.416] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:29:14.444] [ WARNING ] [_internal:_log:122] 40125  * Debugger is active!
+[2020-10-23 15:29:14.445] [ INFO    ] [_internal:_log:122] 40125  * Debugger PIN: 507-280-042
+[2020-10-23 15:29:35.844] [ INFO    ] [_internal:_log:122] 40125  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:29:35.935] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:29:36.889] [ WARNING ] [_internal:_log:122] 40588  * Debugger is active!
+[2020-10-23 15:29:36.890] [ INFO    ] [_internal:_log:122] 40588  * Debugger PIN: 507-280-042
+[2020-10-23 15:29:45.047] [ INFO    ] [_internal:_log:122] 40588  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:29:45.131] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:29:46.192] [ WARNING ] [_internal:_log:122] 40780  * Debugger is active!
+[2020-10-23 15:29:46.194] [ INFO    ] [_internal:_log:122] 40780  * Debugger PIN: 507-280-042
+[2020-10-23 15:29:52.335] [ INFO    ] [_internal:_log:122] 40780  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:29:52.415] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:29:53.332] [ WARNING ] [_internal:_log:122] 40958  * Debugger is active!
+[2020-10-23 15:29:53.332] [ INFO    ] [_internal:_log:122] 40958  * Debugger PIN: 507-280-042
+[2020-10-23 15:30:03.514] [ INFO    ] [_internal:_log:122] 40958  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:30:03.594] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:30:04.559] [ WARNING ] [_internal:_log:122] 41202  * Debugger is active!
+[2020-10-23 15:30:04.560] [ INFO    ] [_internal:_log:122] 41202  * Debugger PIN: 507-280-042
+[2020-10-23 15:31:20.933] [ INFO    ] [_internal:_log:122] 41202  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:31:21.101] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:31:22.347] [ WARNING ] [_internal:_log:122] 42747  * Debugger is active!
+[2020-10-23 15:31:22.348] [ INFO    ] [_internal:_log:122] 42747  * Debugger PIN: 507-280-042
+[2020-10-23 15:31:24.393] [ INFO    ] [_internal:_log:122] 42747  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:31:24.469] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:31:25.370] [ WARNING ] [_internal:_log:122] 42830  * Debugger is active!
+[2020-10-23 15:31:25.371] [ INFO    ] [_internal:_log:122] 42830  * Debugger PIN: 507-280-042
+[2020-10-23 15:32:51.872] [ INFO    ] [_internal:_log:122] 42830  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:32:51.943] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:32:52.998] [ WARNING ] [_internal:_log:122] 44593  * Debugger is active!
+[2020-10-23 15:32:52.999] [ INFO    ] [_internal:_log:122] 44593  * Debugger PIN: 507-280-042
+[2020-10-23 15:33:40.856] [ INFO    ] [_internal:_log:122] 44593  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:33:40.949] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:33:41.881] [ WARNING ] [_internal:_log:122] 45613  * Debugger is active!
+[2020-10-23 15:33:41.883] [ INFO    ] [_internal:_log:122] 45613  * Debugger PIN: 507-280-042
+[2020-10-23 15:33:44.962] [ INFO    ] [_internal:_log:122] 45613  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:33:45.066] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:33:46.304] [ WARNING ] [_internal:_log:122] 45709  * Debugger is active!
+[2020-10-23 15:33:46.305] [ INFO    ] [_internal:_log:122] 45709  * Debugger PIN: 507-280-042
+[2020-10-23 15:34:40.311] [ INFO    ] [_internal:_log:122] 45709  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:34:40.402] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:34:41.660] [ WARNING ] [_internal:_log:122] 46796  * Debugger is active!
+[2020-10-23 15:34:41.661] [ INFO    ] [_internal:_log:122] 46796  * Debugger PIN: 507-280-042
+[2020-10-23 15:35:09.181] [ INFO    ] [_internal:_log:122] 46796  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:35:09.275] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:35:10.399] [ WARNING ] [_internal:_log:122] 47390  * Debugger is active!
+[2020-10-23 15:35:10.400] [ INFO    ] [_internal:_log:122] 47390  * Debugger PIN: 507-280-042
+[2020-10-23 15:35:29.747] [ INFO    ] [_internal:_log:122] 47390  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:35:29.833] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:35:30.823] [ WARNING ] [_internal:_log:122] 47810  * Debugger is active!
+[2020-10-23 15:35:30.824] [ INFO    ] [_internal:_log:122] 47810  * Debugger PIN: 507-280-042
+[2020-10-23 15:35:52.170] [ INFO    ] [_internal:_log:122] 47810  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:35:52.272] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:35:53.230] [ WARNING ] [_internal:_log:122] 48272  * Debugger is active!
+[2020-10-23 15:35:53.230] [ INFO    ] [_internal:_log:122] 48272  * Debugger PIN: 507-280-042
+[2020-10-23 15:36:06.466] [ INFO    ] [_internal:_log:122] 48272  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:36:06.551] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:36:07.692] [ WARNING ] [_internal:_log:122] 48570  * Debugger is active!
+[2020-10-23 15:36:07.693] [ INFO    ] [_internal:_log:122] 48570  * Debugger PIN: 507-280-042
+[2020-10-23 15:36:18.903] [ INFO    ] [_internal:_log:122] 48570  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:36:18.987] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:36:19.797] [ WARNING ] [_internal:_log:122] 48835  * Debugger is active!
+[2020-10-23 15:36:19.798] [ INFO    ] [_internal:_log:122] 48835  * Debugger PIN: 507-280-042
+[2020-10-23 15:36:32.031] [ INFO    ] [_internal:_log:122] 48835  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:36:32.120] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:36:33.155] [ WARNING ] [_internal:_log:122] 49095  * Debugger is active!
+[2020-10-23 15:36:33.155] [ INFO    ] [_internal:_log:122] 49095  * Debugger PIN: 507-280-042
+[2020-10-23 15:36:35.191] [ INFO    ] [_internal:_log:122] 49095  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:36:35.278] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:36:36.695] [ WARNING ] [_internal:_log:122] 49174  * Debugger is active!
+[2020-10-23 15:36:36.696] [ INFO    ] [_internal:_log:122] 49174  * Debugger PIN: 507-280-042
+[2020-10-23 15:36:47.885] [ INFO    ] [_internal:_log:122] 49174  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:36:47.960] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:36:48.957] [ WARNING ] [_internal:_log:122] 49438  * Debugger is active!
+[2020-10-23 15:36:48.957] [ INFO    ] [_internal:_log:122] 49438  * Debugger PIN: 507-280-042
+[2020-10-23 15:36:59.128] [ INFO    ] [_internal:_log:122] 49438  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:36:59.223] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:37:00.183] [ WARNING ] [_internal:_log:122] 49671  * Debugger is active!
+[2020-10-23 15:37:00.184] [ INFO    ] [_internal:_log:122] 49671  * Debugger PIN: 507-280-042
+[2020-10-23 15:37:59.069] [ INFO    ] [_internal:_log:122] 49671  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:37:59.156] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:37:59.990] [ WARNING ] [_internal:_log:122] 50926  * Debugger is active!
+[2020-10-23 15:37:59.991] [ INFO    ] [_internal:_log:122] 50926  * Debugger PIN: 507-280-042
+[2020-10-23 15:38:24.491] [ INFO    ] [_internal:_log:122] 50926  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:38:24.574] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:38:25.448] [ WARNING ] [_internal:_log:122] 51443  * Debugger is active!
+[2020-10-23 15:38:25.448] [ INFO    ] [_internal:_log:122] 51443  * Debugger PIN: 507-280-042
+[2020-10-23 15:38:45.792] [ INFO    ] [_internal:_log:122] 51443  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:38:45.895] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:38:46.982] [ WARNING ] [_internal:_log:122] 51879  * Debugger is active!
+[2020-10-23 15:38:46.983] [ INFO    ] [_internal:_log:122] 51879  * Debugger PIN: 507-280-042
+[2020-10-23 15:38:48.006] [ INFO    ] [_internal:_log:122] 51879  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:38:48.084] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:38:49.125] [ WARNING ] [_internal:_log:122] 51933  * Debugger is active!
+[2020-10-23 15:38:49.126] [ INFO    ] [_internal:_log:122] 51933  * Debugger PIN: 507-280-042
+[2020-10-23 15:40:32.850] [ INFO    ] [_internal:_log:122] 51933  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:40:32.938] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:40:34.408] [ WARNING ] [_internal:_log:122] 54042  * Debugger is active!
+[2020-10-23 15:40:34.409] [ INFO    ] [_internal:_log:122] 54042  * Debugger PIN: 507-280-042
+[2020-10-23 15:40:43.576] [ INFO    ] [_internal:_log:122] 54042  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:40:43.679] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:40:44.920] [ WARNING ] [_internal:_log:122] 54261  * Debugger is active!
+[2020-10-23 15:40:44.921] [ INFO    ] [_internal:_log:122] 54261  * Debugger PIN: 507-280-042
+[2020-10-23 15:42:14.477] [ INFO    ] [_internal:_log:122] 54261  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:42:14.555] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:42:15.491] [ WARNING ] [_internal:_log:122] 56089  * Debugger is active!
+[2020-10-23 15:42:15.493] [ INFO    ] [_internal:_log:122] 56089  * Debugger PIN: 507-280-042
+[2020-10-23 15:42:37.932] [ INFO    ] [_internal:_log:122] 56089  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:42:38.005] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:42:38.942] [ WARNING ] [_internal:_log:122] 56573  * Debugger is active!
+[2020-10-23 15:42:38.943] [ INFO    ] [_internal:_log:122] 56573  * Debugger PIN: 507-280-042
+[2020-10-23 15:42:55.190] [ INFO    ] [_internal:_log:122] 56573  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:42:55.285] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:42:56.224] [ WARNING ] [_internal:_log:122] 56927  * Debugger is active!
+[2020-10-23 15:42:56.225] [ INFO    ] [_internal:_log:122] 56927  * Debugger PIN: 507-280-042
+[2020-10-23 15:43:07.421] [ INFO    ] [_internal:_log:122] 56927  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:43:07.530] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:43:08.735] [ WARNING ] [_internal:_log:122] 57170  * Debugger is active!
+[2020-10-23 15:43:08.736] [ INFO    ] [_internal:_log:122] 57170  * Debugger PIN: 507-280-042
+[2020-10-23 15:43:39.242] [ INFO    ] [_internal:_log:122] 57170  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:43:39.338] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:43:40.291] [ WARNING ] [_internal:_log:122] 57822  * Debugger is active!
+[2020-10-23 15:43:40.291] [ INFO    ] [_internal:_log:122] 57822  * Debugger PIN: 507-280-042
+[2020-10-23 15:43:44.350] [ INFO    ] [_internal:_log:122] 57822  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:43:44.439] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:43:45.449] [ WARNING ] [_internal:_log:122] 57932  * Debugger is active!
+[2020-10-23 15:43:45.449] [ INFO    ] [_internal:_log:122] 57932  * Debugger PIN: 507-280-042
+[2020-10-23 15:43:56.662] [ INFO    ] [_internal:_log:122] 57932  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:43:56.766] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:43:58.156] [ WARNING ] [_internal:_log:122] 58191  * Debugger is active!
+[2020-10-23 15:43:58.157] [ INFO    ] [_internal:_log:122] 58191  * Debugger PIN: 507-280-042
+[2020-10-23 15:44:04.329] [ INFO    ] [_internal:_log:122] 58191  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:44:04.414] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:44:05.428] [ WARNING ] [_internal:_log:122] 58349  * Debugger is active!
+[2020-10-23 15:44:05.428] [ INFO    ] [_internal:_log:122] 58349  * Debugger PIN: 507-280-042
+[2020-10-23 15:44:46.143] [ INFO    ] [_internal:_log:122] 58349  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:44:46.264] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:44:47.133] [ WARNING ] [_internal:_log:122] 59195  * Debugger is active!
+[2020-10-23 15:44:47.134] [ INFO    ] [_internal:_log:122] 59195  * Debugger PIN: 507-280-042
+[2020-10-23 15:44:55.293] [ INFO    ] [_internal:_log:122] 59195  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:44:55.368] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:44:56.217] [ WARNING ] [_internal:_log:122] 59383  * Debugger is active!
+[2020-10-23 15:44:56.218] [ INFO    ] [_internal:_log:122] 59383  * Debugger PIN: 507-280-042
+[2020-10-23 15:44:59.262] [ INFO    ] [_internal:_log:122] 59383  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:44:59.351] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:45:00.299] [ WARNING ] [_internal:_log:122] 59473  * Debugger is active!
+[2020-10-23 15:45:00.300] [ INFO    ] [_internal:_log:122] 59473  * Debugger PIN: 507-280-042
+[2020-10-23 15:45:57.330] [ INFO    ] [_internal:_log:122] 59473  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:45:57.418] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:45:58.252] [ WARNING ] [_internal:_log:122] 60617  * Debugger is active!
+[2020-10-23 15:45:58.252] [ INFO    ] [_internal:_log:122] 60617  * Debugger PIN: 507-280-042
+[2020-10-23 15:46:11.484] [ INFO    ] [_internal:_log:122] 60617  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:46:11.581] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:46:12.442] [ WARNING ] [_internal:_log:122] 60913  * Debugger is active!
+[2020-10-23 15:46:12.443] [ INFO    ] [_internal:_log:122] 60913  * Debugger PIN: 507-280-042
+[2020-10-23 15:46:17.521] [ INFO    ] [_internal:_log:122] 60913  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:46:17.607] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:46:18.974] [ WARNING ] [_internal:_log:122] 61033  * Debugger is active!
+[2020-10-23 15:46:18.975] [ INFO    ] [_internal:_log:122] 61033  * Debugger PIN: 507-280-042
+[2020-10-23 15:46:32.258] [ INFO    ] [_internal:_log:122] 61033  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:46:32.325] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:46:33.230] [ WARNING ] [_internal:_log:122] 61331  * Debugger is active!
+[2020-10-23 15:46:33.230] [ INFO    ] [_internal:_log:122] 61331  * Debugger PIN: 507-280-042
+[2020-10-23 15:47:06.821] [ INFO    ] [_internal:_log:122] 61331  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:47:06.917] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:47:07.967] [ WARNING ] [_internal:_log:122] 62027  * Debugger is active!
+[2020-10-23 15:47:07.968] [ INFO    ] [_internal:_log:122] 62027  * Debugger PIN: 507-280-042
+[2020-10-23 15:47:20.188] [ INFO    ] [_internal:_log:122] 62027  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:47:20.277] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:47:21.250] [ WARNING ] [_internal:_log:122] 62311  * Debugger is active!
+[2020-10-23 15:47:21.251] [ INFO    ] [_internal:_log:122] 62311  * Debugger PIN: 507-280-042
+[2020-10-23 15:47:37.545] [ INFO    ] [_internal:_log:122] 62311  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:47:37.619] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:47:38.707] [ WARNING ] [_internal:_log:122] 62661  * Debugger is active!
+[2020-10-23 15:47:38.707] [ INFO    ] [_internal:_log:122] 62661  * Debugger PIN: 507-280-042
+[2020-10-23 15:48:43.770] [ INFO    ] [_internal:_log:122] 62661  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:48:43.856] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:48:44.788] [ WARNING ] [_internal:_log:122] 63992  * Debugger is active!
+[2020-10-23 15:48:44.789] [ INFO    ] [_internal:_log:122] 63992  * Debugger PIN: 507-280-042
+[2020-10-23 15:49:33.592] [ INFO    ] [_internal:_log:122] 63992  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:49:33.722] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:49:34.512] [ WARNING ] [_internal:_log:122] 64986  * Debugger is active!
+[2020-10-23 15:49:34.512] [ INFO    ] [_internal:_log:122] 64986  * Debugger PIN: 507-280-042
+[2020-10-23 15:50:07.092] [ INFO    ] [_internal:_log:122] 64986  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:50:07.150] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:50:08.109] [ WARNING ] [_internal:_log:122] 65654  * Debugger is active!
+[2020-10-23 15:50:08.110] [ INFO    ] [_internal:_log:122] 65654  * Debugger PIN: 507-280-042
+[2020-10-23 15:51:04.124] [ INFO    ] [_internal:_log:122] 65654  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:51:04.222] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:51:05.119] [ WARNING ] [_internal:_log:122] 66806  * Debugger is active!
+[2020-10-23 15:51:05.120] [ INFO    ] [_internal:_log:122] 66806  * Debugger PIN: 507-280-042
+[2020-10-23 15:52:10.230] [ INFO    ] [_internal:_log:122] 66806  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/models/thresholdobjects.py', reloading
+[2020-10-23 15:52:10.318] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:52:11.104] [ WARNING ] [_internal:_log:122] 68121  * Debugger is active!
+[2020-10-23 15:52:11.104] [ INFO    ] [_internal:_log:122] 68121  * Debugger PIN: 507-280-042
+[2020-10-23 15:53:03.969] [ INFO    ] [_internal:_log:122] 68121  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 15:53:04.064] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 15:53:04.968] [ WARNING ] [_internal:_log:122] 69203  * Debugger is active!
+[2020-10-23 15:53:04.969] [ INFO    ] [_internal:_log:122] 69203  * Debugger PIN: 507-280-042
+[2020-10-23 16:00:31.141] [ INFO    ] [_internal:_log:122] 69203  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 16:00:31.249] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 16:00:32.222] [ WARNING ] [_internal:_log:122] 78115  * Debugger is active!
+[2020-10-23 16:00:32.224] [ INFO    ] [_internal:_log:122] 78115  * Debugger PIN: 507-280-042
+[2020-10-23 16:01:39.442] [ INFO    ] [_internal:_log:122] 78115  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_insert/routes.py', reloading
+[2020-10-23 16:01:39.535] [ INFO    ] [_internal:_log:122] 99296  * Restarting with stat
+[2020-10-23 16:01:40.824] [ WARNING ] [_internal:_log:122] 79468  * Debugger is active!
+[2020-10-23 16:01:40.825] [ INFO    ] [_internal:_log:122] 79468  * Debugger PIN: 507-280-042
+[2020-10-23 16:02:20.628] [ INFO    ] [_internal:_log:122] 80316  * Running on http://0.0.0.0:1234/ (Press CTRL+C to quit)
+[2020-10-23 16:02:20.628] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:02:21.613] [ WARNING ] [_internal:_log:122] 80345  * Debugger is active!
+[2020-10-23 16:02:21.614] [ INFO    ] [_internal:_log:122] 80345  * Debugger PIN: 507-280-042
+[2020-10-23 16:04:47.695] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:04:47] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 16:04:52.756] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:04:52] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 16:04:57.805] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:04:57] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 16:05:02.908] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:05:02] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 16:05:07.927] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:05:07] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 404 -
+[2020-10-23 16:05:12.941] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:05:12] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 404 -
+[2020-10-23 16:05:17.960] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:05:17] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 404 -
+[2020-10-23 16:05:22.982] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:05:22] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 404 -
+[2020-10-23 16:05:27.999] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:05:27] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 404 -
+[2020-10-23 16:17:45.544] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:17:45] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 16:17:50.608] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:17:50] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 16:17:56.365] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:17:56] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 16:18:01.427] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:18:01] "POST /api/v1/insert/add_devicedetails HTTP/1.1" 201 -
+[2020-10-23 16:18:06.485] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:18:06] "POST /api/v1/insert/add_protocoldetails HTTP/1.1" 201 -
+[2020-10-23 16:18:11.548] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:18:11] "POST /api/v1/insert/add_protocoldetails HTTP/1.1" 201 -
+[2020-10-23 16:18:16.569] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:18:16] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 404 -
+[2020-10-23 16:18:21.588] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:18:21] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 404 -
+[2020-10-23 16:18:26.610] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:18:26] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 404 -
+[2020-10-23 16:18:31.633] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:18:31] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 404 -
+[2020-10-23 16:18:36.659] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:18:36] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 404 -
+[2020-10-23 16:19:01.458] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:19:01] "GET /api/v1/metricdetails HTTP/1.1" 200 -
+[2020-10-23 16:19:05.730] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:19:05] "GET /api/v1/metricdetails HTTP/1.1" 200 -
+[2020-10-23 16:19:22.533] [ INFO    ] [_internal:_log:122] 80345 127.0.0.1 - - [23/Oct/2020 16:19:22] "GET /api/v1/protocoldetails HTTP/1.1" 200 -
+[2020-10-23 16:39:25.655] [ INFO    ] [_internal:_log:122] 80345  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:39:25.762] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:39:26.665] [ WARNING ] [_internal:_log:122] 125003  * Debugger is active!
+[2020-10-23 16:39:26.665] [ INFO    ] [_internal:_log:122] 125003  * Debugger PIN: 507-280-042
+[2020-10-23 16:39:43.965] [ INFO    ] [_internal:_log:122] 125003  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:39:44.055] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:39:45.216] [ WARNING ] [_internal:_log:122] 125389  * Debugger is active!
+[2020-10-23 16:39:45.217] [ INFO    ] [_internal:_log:122] 125389  * Debugger PIN: 507-280-042
+[2020-10-23 16:39:50.293] [ INFO    ] [_internal:_log:122] 125389  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:39:50.373] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:39:51.550] [ WARNING ] [_internal:_log:122] 125526  * Debugger is active!
+[2020-10-23 16:39:51.550] [ INFO    ] [_internal:_log:122] 125526  * Debugger PIN: 507-280-042
+[2020-10-23 16:39:57.670] [ INFO    ] [_internal:_log:122] 125526  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:39:57.739] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:39:58.725] [ WARNING ] [_internal:_log:122] 125687  * Debugger is active!
+[2020-10-23 16:39:58.726] [ INFO    ] [_internal:_log:122] 125687  * Debugger PIN: 507-280-042
+[2020-10-23 16:40:14.986] [ INFO    ] [_internal:_log:122] 125687  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:40:15.058] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:40:16.253] [ WARNING ] [_internal:_log:122] 126042  * Debugger is active!
+[2020-10-23 16:40:16.254] [ INFO    ] [_internal:_log:122] 126042  * Debugger PIN: 507-280-042
+[2020-10-23 16:40:26.427] [ INFO    ] [_internal:_log:122] 126042  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:40:26.519] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:40:27.583] [ WARNING ] [_internal:_log:122] 126274  * Debugger is active!
+[2020-10-23 16:40:27.584] [ INFO    ] [_internal:_log:122] 126274  * Debugger PIN: 507-280-042
+[2020-10-23 16:40:30.634] [ INFO    ] [_internal:_log:122] 126274  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:40:30.706] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:40:31.503] [ WARNING ] [_internal:_log:122] 126374  * Debugger is active!
+[2020-10-23 16:40:31.504] [ INFO    ] [_internal:_log:122] 126374  * Debugger PIN: 507-280-042
+[2020-10-23 16:45:27.658] [ INFO    ] [_internal:_log:122] 126374  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:45:27.748] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:45:28.787] [ WARNING ] [_internal:_log:122] 1559  * Debugger is active!
+[2020-10-23 16:45:28.787] [ INFO    ] [_internal:_log:122] 1559  * Debugger PIN: 507-280-042
+[2020-10-23 16:46:09.499] [ INFO    ] [_internal:_log:122] 1559  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:46:09.604] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:46:10.706] [ WARNING ] [_internal:_log:122] 2470  * Debugger is active!
+[2020-10-23 16:46:10.707] [ INFO    ] [_internal:_log:122] 2470  * Debugger PIN: 507-280-042
+[2020-10-23 16:47:21.021] [ INFO    ] [_internal:_log:122] 2470  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:47:21.107] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:47:21.955] [ WARNING ] [_internal:_log:122] 4056  * Debugger is active!
+[2020-10-23 16:47:21.955] [ INFO    ] [_internal:_log:122] 4056  * Debugger PIN: 507-280-042
+[2020-10-23 16:47:53.547] [ INFO    ] [_internal:_log:122] 4056  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:47:53.633] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:47:54.655] [ WARNING ] [_internal:_log:122] 4724  * Debugger is active!
+[2020-10-23 16:47:54.655] [ INFO    ] [_internal:_log:122] 4724  * Debugger PIN: 507-280-042
+[2020-10-23 16:47:57.712] [ INFO    ] [_internal:_log:122] 4724  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:47:57.838] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:47:58.908] [ WARNING ] [_internal:_log:122] 4818  * Debugger is active!
+[2020-10-23 16:47:58.909] [ INFO    ] [_internal:_log:122] 4818  * Debugger PIN: 507-280-042
+[2020-10-23 16:48:00.938] [ INFO    ] [_internal:_log:122] 4818  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:48:01.055] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:48:01.929] [ WARNING ] [_internal:_log:122] 4891  * Debugger is active!
+[2020-10-23 16:48:01.931] [ INFO    ] [_internal:_log:122] 4891  * Debugger PIN: 507-280-042
+[2020-10-23 16:48:08.065] [ INFO    ] [_internal:_log:122] 4891  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:48:08.178] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:48:09.056] [ WARNING ] [_internal:_log:122] 5035  * Debugger is active!
+[2020-10-23 16:48:09.057] [ INFO    ] [_internal:_log:122] 5035  * Debugger PIN: 507-280-042
+[2020-10-23 16:48:32.456] [ INFO    ] [_internal:_log:122] 5035  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:48:32.536] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:48:33.666] [ WARNING ] [_internal:_log:122] 5533  * Debugger is active!
+[2020-10-23 16:48:33.667] [ INFO    ] [_internal:_log:122] 5533  * Debugger PIN: 507-280-042
+[2020-10-23 16:49:08.320] [ INFO    ] [_internal:_log:122] 5533  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:49:08.431] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:49:09.438] [ WARNING ] [_internal:_log:122] 6268  * Debugger is active!
+[2020-10-23 16:49:09.438] [ INFO    ] [_internal:_log:122] 6268  * Debugger PIN: 507-280-042
+[2020-10-23 16:52:25.713] [ INFO    ] [_internal:_log:122] 6268  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:52:25.797] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:52:26.809] [ WARNING ] [_internal:_log:122] 10230  * Debugger is active!
+[2020-10-23 16:52:26.811] [ INFO    ] [_internal:_log:122] 10230  * Debugger PIN: 507-280-042
+[2020-10-23 16:52:33.920] [ INFO    ] [_internal:_log:122] 10230  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:52:33.996] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:52:34.836] [ WARNING ] [_internal:_log:122] 10407  * Debugger is active!
+[2020-10-23 16:52:34.837] [ INFO    ] [_internal:_log:122] 10407  * Debugger PIN: 507-280-042
+[2020-10-23 16:52:57.180] [ INFO    ] [_internal:_log:122] 10407  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:52:57.241] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:52:58.444] [ WARNING ] [_internal:_log:122] 10883  * Debugger is active!
+[2020-10-23 16:52:58.445] [ INFO    ] [_internal:_log:122] 10883  * Debugger PIN: 507-280-042
+[2020-10-23 16:53:20.827] [ INFO    ] [_internal:_log:122] 10883  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:53:20.891] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:53:21.802] [ WARNING ] [_internal:_log:122] 11367  * Debugger is active!
+[2020-10-23 16:53:21.803] [ INFO    ] [_internal:_log:122] 11367  * Debugger PIN: 507-280-042
+[2020-10-23 16:53:38.113] [ INFO    ] [_internal:_log:122] 11367  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:53:38.207] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:53:39.096] [ WARNING ] [_internal:_log:122] 11720  * Debugger is active!
+[2020-10-23 16:53:39.097] [ INFO    ] [_internal:_log:122] 11720  * Debugger PIN: 507-280-042
+[2020-10-23 16:54:11.665] [ INFO    ] [_internal:_log:122] 11720  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:54:11.756] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:54:12.879] [ WARNING ] [_internal:_log:122] 12394  * Debugger is active!
+[2020-10-23 16:54:12.880] [ INFO    ] [_internal:_log:122] 12394  * Debugger PIN: 507-280-042
+[2020-10-23 16:54:14.921] [ INFO    ] [_internal:_log:122] 12394  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:54:15.027] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:54:15.900] [ WARNING ] [_internal:_log:122] 12467  * Debugger is active!
+[2020-10-23 16:54:15.900] [ INFO    ] [_internal:_log:122] 12467  * Debugger PIN: 507-280-042
+[2020-10-23 16:58:40.105] [ INFO    ] [_internal:_log:122] 12467  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 16:58:40.193] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 16:58:41.174] [ WARNING ] [_internal:_log:122] 17766  * Debugger is active!
+[2020-10-23 16:58:41.174] [ INFO    ] [_internal:_log:122] 17766  * Debugger PIN: 507-280-042
+[2020-10-23 17:06:08.471] [ INFO    ] [_internal:_log:122] 17766  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:06:08.585] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:06:09.519] [ WARNING ] [_internal:_log:122] 26698  * Debugger is active!
+[2020-10-23 17:06:09.519] [ INFO    ] [_internal:_log:122] 26698  * Debugger PIN: 507-280-042
+[2020-10-23 17:06:20.708] [ INFO    ] [_internal:_log:122] 26698  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:06:20.788] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:06:21.951] [ WARNING ] [_internal:_log:122] 26947  * Debugger is active!
+[2020-10-23 17:06:21.953] [ INFO    ] [_internal:_log:122] 26947  * Debugger PIN: 507-280-042
+[2020-10-23 17:06:39.249] [ INFO    ] [_internal:_log:122] 26947  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:06:39.339] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:06:40.342] [ WARNING ] [_internal:_log:122] 27341  * Debugger is active!
+[2020-10-23 17:06:40.343] [ INFO    ] [_internal:_log:122] 27341  * Debugger PIN: 507-280-042
+[2020-10-23 17:06:54.576] [ INFO    ] [_internal:_log:122] 27341  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:06:54.653] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:06:55.780] [ WARNING ] [_internal:_log:122] 27658  * Debugger is active!
+[2020-10-23 17:06:55.781] [ INFO    ] [_internal:_log:122] 27658  * Debugger PIN: 507-280-042
+[2020-10-23 17:07:19.164] [ INFO    ] [_internal:_log:122] 27658  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:07:19.256] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:07:20.469] [ WARNING ] [_internal:_log:122] 28162  * Debugger is active!
+[2020-10-23 17:07:20.470] [ INFO    ] [_internal:_log:122] 28162  * Debugger PIN: 507-280-042
+[2020-10-23 17:07:45.973] [ INFO    ] [_internal:_log:122] 28162  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:07:46.075] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:07:47.159] [ WARNING ] [_internal:_log:122] 28715  * Debugger is active!
+[2020-10-23 17:07:47.160] [ INFO    ] [_internal:_log:122] 28715  * Debugger PIN: 507-280-042
+[2020-10-23 17:08:21.778] [ INFO    ] [_internal:_log:122] 28715  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:08:21.875] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:08:22.817] [ WARNING ] [_internal:_log:122] 29444  * Debugger is active!
+[2020-10-23 17:08:22.817] [ INFO    ] [_internal:_log:122] 29444  * Debugger PIN: 507-280-042
+[2020-10-23 17:08:38.081] [ INFO    ] [_internal:_log:122] 29444  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:08:38.175] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:08:39.237] [ WARNING ] [_internal:_log:122] 29770  * Debugger is active!
+[2020-10-23 17:08:39.237] [ INFO    ] [_internal:_log:122] 29770  * Debugger PIN: 507-280-042
+[2020-10-23 17:08:55.553] [ INFO    ] [_internal:_log:122] 29770  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:08:55.632] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:08:57.099] [ WARNING ] [_internal:_log:122] 30117  * Debugger is active!
+[2020-10-23 17:08:57.101] [ INFO    ] [_internal:_log:122] 30117  * Debugger PIN: 507-280-042
+[2020-10-23 17:09:19.548] [ INFO    ] [_internal:_log:122] 30117  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:09:19.639] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:09:20.657] [ WARNING ] [_internal:_log:122] 30600  * Debugger is active!
+[2020-10-23 17:09:20.657] [ INFO    ] [_internal:_log:122] 30600  * Debugger PIN: 507-280-042
+[2020-10-23 17:09:34.927] [ INFO    ] [_internal:_log:122] 30600  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:09:35.022] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:09:36.405] [ WARNING ] [_internal:_log:122] 30916  * Debugger is active!
+[2020-10-23 17:09:36.407] [ INFO    ] [_internal:_log:122] 30916  * Debugger PIN: 507-280-042
+[2020-10-23 17:09:37.436] [ INFO    ] [_internal:_log:122] 30916  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:09:37.532] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:09:38.507] [ WARNING ] [_internal:_log:122] 30967  * Debugger is active!
+[2020-10-23 17:09:38.507] [ INFO    ] [_internal:_log:122] 30967  * Debugger PIN: 507-280-042
+[2020-10-23 17:10:13.158] [ INFO    ] [_internal:_log:122] 30967  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:10:13.230] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:10:14.474] [ WARNING ] [_internal:_log:122] 31697  * Debugger is active!
+[2020-10-23 17:10:14.475] [ INFO    ] [_internal:_log:122] 31697  * Debugger PIN: 507-280-042
+[2020-10-23 17:10:28.737] [ INFO    ] [_internal:_log:122] 31697  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:10:28.827] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:10:29.755] [ WARNING ] [_internal:_log:122] 32018  * Debugger is active!
+[2020-10-23 17:10:29.756] [ INFO    ] [_internal:_log:122] 32018  * Debugger PIN: 507-280-042
+[2020-10-23 17:10:30.785] [ INFO    ] [_internal:_log:122] 32018  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:10:30.928] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:10:31.604] [ WARNING ] [_internal:_log:122] 32069  * Debugger is active!
+[2020-10-23 17:10:31.605] [ INFO    ] [_internal:_log:122] 32069  * Debugger PIN: 507-280-042
+[2020-10-23 17:11:03.184] [ INFO    ] [_internal:_log:122] 32069  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:11:03.266] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:11:04.241] [ WARNING ] [_internal:_log:122] 32715  * Debugger is active!
+[2020-10-23 17:11:04.243] [ INFO    ] [_internal:_log:122] 32715  * Debugger PIN: 507-280-042
+[2020-10-23 17:11:15.448] [ INFO    ] [_internal:_log:122] 32715  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:11:15.535] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:11:16.523] [ WARNING ] [_internal:_log:122] 32956  * Debugger is active!
+[2020-10-23 17:11:16.524] [ INFO    ] [_internal:_log:122] 32956  * Debugger PIN: 507-280-042
+[2020-10-23 17:11:38.863] [ INFO    ] [_internal:_log:122] 32956  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:11:38.960] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:11:39.904] [ WARNING ] [_internal:_log:122] 33451  * Debugger is active!
+[2020-10-23 17:11:39.905] [ INFO    ] [_internal:_log:122] 33451  * Debugger PIN: 507-280-042
+[2020-10-23 17:12:05.372] [ INFO    ] [_internal:_log:122] 33451  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:12:05.460] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:12:06.745] [ WARNING ] [_internal:_log:122] 33981  * Debugger is active!
+[2020-10-23 17:12:06.745] [ INFO    ] [_internal:_log:122] 33981  * Debugger PIN: 507-280-042
+[2020-10-23 17:12:58.620] [ INFO    ] [_internal:_log:122] 33981  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/controllers/tuannv48_get/routes.py', reloading
+[2020-10-23 17:12:58.702] [ INFO    ] [_internal:_log:122] 80316  * Restarting with stat
+[2020-10-23 17:12:59.523] [ WARNING ] [_internal:_log:122] 35050  * Debugger is active!
+[2020-10-23 17:12:59.524] [ INFO    ] [_internal:_log:122] 35050  * Debugger PIN: 507-280-042
+[2020-10-23 17:13:08.853] [ INFO    ] [_internal:_log:122] 35050 127.0.0.1 - - [23/Oct/2020 17:13:08] "GET /api/v1/protocoldetails HTTP/1.1" 200 -
+[2020-10-23 17:13:13.497] [ INFO    ] [_internal:_log:122] 35050 127.0.0.1 - - [23/Oct/2020 17:13:13] "GET /api/v1/protocoldetails/2 HTTP/1.1" 200 -
+[2020-10-23 17:14:00.989] [ INFO    ] [_internal:_log:122] 35050 127.0.0.1 - - [23/Oct/2020 17:14:00] "GET /api/v1/metricdetails HTTP/1.1" 200 -
+[2020-10-23 17:14:07.467] [ INFO    ] [_internal:_log:122] 36481  * Running on http://0.0.0.0:1234/ (Press CTRL+C to quit)
+[2020-10-23 17:14:07.468] [ INFO    ] [_internal:_log:122] 36481  * Restarting with stat
+[2020-10-23 17:14:08.755] [ WARNING ] [_internal:_log:122] 36508  * Debugger is active!
+[2020-10-23 17:14:08.756] [ INFO    ] [_internal:_log:122] 36508  * Debugger PIN: 507-280-042
+[2020-10-23 17:14:15.406] [ INFO    ] [_internal:_log:122] 36508 127.0.0.1 - - [23/Oct/2020 17:14:15] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 201 -
+[2020-10-23 17:14:20.646] [ INFO    ] [_internal:_log:122] 36508 127.0.0.1 - - [23/Oct/2020 17:14:20] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 201 -
+[2020-10-23 17:14:25.789] [ INFO    ] [_internal:_log:122] 36508 127.0.0.1 - - [23/Oct/2020 17:14:25] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 201 -
+[2020-10-23 17:14:30.864] [ INFO    ] [_internal:_log:122] 36508 127.0.0.1 - - [23/Oct/2020 17:14:30] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 201 -
+[2020-10-23 17:14:36.187] [ INFO    ] [_internal:_log:122] 36508 127.0.0.1 - - [23/Oct/2020 17:14:36] "POST /api/v1/insert/add_metricdetails HTTP/1.1" 201 -
+[2020-10-23 17:15:02.916] [ INFO    ] [_internal:_log:122] 36508 127.0.0.1 - - [23/Oct/2020 17:15:02] "GET /api/v1/metricdetails HTTP/1.1" 200 -
+[2020-10-23 17:15:08.576] [ INFO    ] [_internal:_log:122] 36508 127.0.0.1 - - [23/Oct/2020 17:15:08] "GET /api/v1/metricdetails/9 HTTP/1.1" 200 -
+[2020-10-23 17:35:50.300] [ INFO    ] [_internal:_log:122] 36508  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/models/thresholdobjects.py', reloading
+[2020-10-23 17:35:50.402] [ INFO    ] [_internal:_log:122] 36481  * Restarting with stat
+[2020-10-23 17:35:51.298] [ WARNING ] [_internal:_log:122] 62902  * Debugger is active!
+[2020-10-23 17:35:51.299] [ INFO    ] [_internal:_log:122] 62902  * Debugger PIN: 507-280-042
