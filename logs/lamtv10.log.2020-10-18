@@ -1,7 +1,0 @@
-[2020-10-23 09:07:17.646] [ INFO    ] [_internal:_log:122] 76709 127.0.0.1 - - [23/Oct/2020 09:07:17] "GET /api/v1/ HTTP/1.1" 200 -
-[2020-10-23 09:07:17.705] [ INFO    ] [_internal:_log:122] 76709 127.0.0.1 - - [23/Oct/2020 09:07:17] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
-[2020-10-23 09:07:17.721] [ INFO    ] [_internal:_log:122] 76709 127.0.0.1 - - [23/Oct/2020 09:07:17] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
-[2020-10-23 09:07:17.726] [ INFO    ] [_internal:_log:122] 76709 127.0.0.1 - - [23/Oct/2020 09:07:17] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
-[2020-10-23 09:07:17.731] [ INFO    ] [_internal:_log:122] 76709 127.0.0.1 - - [23/Oct/2020 09:07:17] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
-[2020-10-23 09:07:18.136] [ INFO    ] [_internal:_log:122] 76709 127.0.0.1 - - [23/Oct/2020 09:07:18] "GET /api/v1/swagger.json HTTP/1.1" 200 -
-[2020-10-23 09:08:15.093] [ INFO    ] [_internal:_log:122] 76709  * Detected change in '/home/vttek/lamtv10/ProjectTuannv48/app.py', reloading
